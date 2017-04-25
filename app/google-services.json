@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1033204853620",
+    "firebase_url": "https://guiacolinas-15066.firebaseio.com",
+    "project_id": "guiacolinas-15066",
+    "storage_bucket": "guiacolinas-15066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033204853620:android:aa5b41e0f6d3da27",
+        "android_client_info": {
+          "package_name": "com.example.jose.guiacolinas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033204853620-dsrsspfhgj0kkq4fhscuceaba6hlj4sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jose.guiacolinas",
+            "certificate_hash": "4a36426bffacd8008aee437b0af8ca64325aee65"
+          }
+        },
+        {
+          "client_id": "1033204853620-rtd5bqssf04f8ir8flnkgk0lfev1r141.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPRz-2VcgrLA6V1PF0zj2HOMMYL_EcspQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033204853620-rtd5bqssf04f8ir8flnkgk0lfev1r141.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
